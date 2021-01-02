@@ -1,0 +1,26 @@
+{
+    "explorer.confirmDelete": true,
+    "terminal.integrated.allowChords": true,
+    "files.exclude": {
+        "**/.git": true
+    },
+
+    "git.enabled": true,
+    "git.path.executablePath": "C:/Program Files/Git/bin/git.exe",
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.autofetch": true,
+    "git.defaultCloneDirectory": "",
+    "liveServer.settings.port": 3000,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "liveServer.settings.root": "/",
+    "liveServer.settings.ignoreFiles": [
+    
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.ts"
+    ]
+
+}
